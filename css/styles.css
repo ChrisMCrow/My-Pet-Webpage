@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  color: brown;
+}
+p {
+  font-style: oblique;
+}
+ol, ul {
+  line-height: 30px;
+}
