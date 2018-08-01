@@ -10,3 +10,6 @@ p {
 ol, ul {
   line-height: 30px;
 }
+.danger {
+  font-style: italic;
+}
